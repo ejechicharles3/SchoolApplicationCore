@@ -1,2 +1,2 @@
 # SchoolApplicationCore
-Learn how to structure Multiple Tier Projects
+Learn how to structure Multi Tier projects 
